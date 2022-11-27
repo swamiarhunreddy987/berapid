@@ -1,5 +1,140 @@
 [
   {
+    "id": "5f00a7",
+    "t": "& Pictures (And Pictures)",
+    "im": "https://i.postimg.cc/wMm2NRDB/pictures.png",
+    "ct": "Movies",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/andpictures/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "aec06a",
+    "t": "& Pictures HD (And Pictures HD)",
+    "im": "https://i.postimg.cc/Ss52h20m/Pictures-HD.png",
+    "ct": "Movies",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/andpictureshd/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "0d4d4f",
+    "t": "B4U Movies",
+    "im": "https://i.postimg.cc/8z9CKFvG/B4-U-Movies.png",
+    "ct": "Movies",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/b4umovies/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "99cc2e",
+    "t": "Big Magic",
+    "im": "https://i.postimg.cc/HkcYyphh/Big-Magic.png",
+    "ct": "Entertainment",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/bigmagic/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "a6fa88",
+    "t": "Colors UK",
+    "im": "https://i.postimg.cc/vm5G00M7/Colors.png",
+    "ct": "Entertainment",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/colorstvuk/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "aadcaa",
+    "t": "Colors",
+    "im": "https://i.postimg.cc/vm5G00M7/Colors.png",
+    "ct": "Entertainment",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/colorstv/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "697598",
+    "t": "Colors HD",
+    "im": "https://i.postimg.cc/1X7S8TcS/Colors-HD.png",
+    "ct": "Entertainment",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind1/colorstvhd/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "f22e29",
+    "t": "Dabangg TV",
+    "im": "https://i.postimg.cc/pdMH5K8m/Dabangg-TV.png",
+    "ct": "Movies",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/dabangtv/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "61aa02",
+    "t": "DD National",
+    "im": "https://i.postimg.cc/x88DV5r4/DD-National.png",
+    "ct": "Entertainment",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/ddnational/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "66657f",
+    "t": "Dhamaal TV",
+    "im": "https://i.postimg.cc/zG8mJq1h/Dhamaal-TV.png",
+    "ct": "Entertainment",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/dhamaaltv/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "fb626b",
+    "t": "e24",
+    "im": "https://i.postimg.cc/DfGy0fRp/E24.png",
+    "ct": "News",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/e24/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "dbd057",
+    "t": "Enterr10",
+    "im": "https://i.postimg.cc/jdQx6gxz/Enterr10-Movies.png",
+    "ct": "Movies",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind1/enter10/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "25696b",
+    "t": "Maha Movies",
+    "im": "https://i.postimg.cc/63cs2SL3/Maha-Movie.png",
+    "ct": "Movies",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/mahamovies/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "e1479b",
+    "t": "Manoranjan Movies",
+    "im": "https://i.postimg.cc/9f2Ndbfq/Manoranjan-Movies.png",
+    "ct": "Movies",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/manoranganmovies/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "fbc1b2",
+    "t": "Manoranjan TV",
+    "im": "https://i.postimg.cc/qMtY4gYg/Manoranjan-TV.png",
+    "ct": "Movies",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/manorangantv/playlist.m3u8",
+    "vp": "0"
+  },
+  {
     "id": "5b7b03",
     "t": "9XM",
     "im": "https://i.postimg.cc/bJb8ZsDy/9XM.png",
@@ -9,163 +144,28 @@
     "vp": "0"
   },
   {
-    "id": "5f00a7",
-    "t": "& Pictures (And Pictures)",
-    "im": "https://i.postimg.cc/wMm2NRDB/pictures.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/andpictures/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "aec06a",
-    "t": "& Pictures HD (And Pictures HD)",
-    "im": "https://i.postimg.cc/Ss52h20m/Pictures-HD.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/andpictureshd/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "0d4d4f",
-    "t": "B4U Movies",
-    "im": "https://i.postimg.cc/8z9CKFvG/B4-U-Movies.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/b4umovies/playlist.m3u8",
-    "vp": "0"
-  },
-  {
     "id": "10cb86",
     "t": "B4U Music",
     "im": "https://i.postimg.cc/d1KVFznS/B4-U-Music.png",
-    "ct": "",
+    "ct": "Music",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/b4umusic/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "99cc2e",
-    "t": "Big Magic",
-    "im": "https://i.postimg.cc/HkcYyphh/Big-Magic.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/bigmagic/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "a6fa88",
-    "t": "Colors UK",
-    "im": "https://i.postimg.cc/vm5G00M7/Colors.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/colorstvuk/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "aadcaa",
-    "t": "Colors",
-    "im": "https://i.postimg.cc/vm5G00M7/Colors.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/colorstv/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "697598",
-    "t": "Colors HD",
-    "im": "https://i.postimg.cc/1X7S8TcS/Colors-HD.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind1/colorstvhd/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "f22e29",
-    "t": "Dabangg TV",
-    "im": "https://i.postimg.cc/pdMH5K8m/Dabangg-TV.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/dabangtv/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "61aa02",
-    "t": "DD National",
-    "im": "https://i.postimg.cc/x88DV5r4/DD-National.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/ddnational/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "66657f",
-    "t": "Dhamaal TV",
-    "im": "https://i.postimg.cc/zG8mJq1h/Dhamaal-TV.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/dhamaaltv/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "fb626b",
-    "t": "e24",
-    "im": "https://i.postimg.cc/DfGy0fRp/E24.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/e24/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "dbd057",
-    "t": "Enterr10",
-    "im": "https://i.postimg.cc/jdQx6gxz/Enterr10-Movies.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind1/enter10/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "25696b",
-    "t": "Maha Movies",
-    "im": "https://i.postimg.cc/63cs2SL3/Maha-Movie.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/mahamovies/playlist.m3u8",
     "vp": "0"
   },
   {
     "id": "4b4899",
     "t": "MTV Beats HD",
     "im": "https://i.postimg.cc/yxpwnZGC/MTV-Beats-HD.png",
-    "ct": "",
+    "ct": "Music",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/mtvbeats/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "e1479b",
-    "t": "Manoranjan Movies",
-    "im": "https://i.postimg.cc/9f2Ndbfq/Manoranjan-Movies.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/manoranganmovies/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "fbc1b2",
-    "t": "Manoranjan TV",
-    "im": "https://i.postimg.cc/qMtY4gYg/Manoranjan-TV.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/manorangantv/playlist.m3u8",
     "vp": "0"
   },
   {
     "id": "3d3158",
     "t": "MTV India",
     "im": "https://i.postimg.cc/DZyjDzLv/MTV-India.png",
-    "ct": "",
+    "ct": "Music",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/mtvindia/playlist.m3u8",
     "vp": "0"
@@ -174,9 +174,18 @@
     "id": "220307",
     "t": "Music India",
     "im": "https://i.postimg.cc/yddjjbCW/Music-India.png",
-    "ct": "",
+    "ct": "Music",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/musicindia/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "1802bd",
+    "t": "Zing",
+    "im": "https://i.postimg.cc/ZY1r1RhT/Zing.png",
+    "ct": "Music",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind1/zingtv/playlist.m3u8",
     "vp": "0"
   },
   {
@@ -228,7 +237,7 @@
     "id": "5d854d",
     "t": "ETNow (ET Now)",
     "im": "https://i.postimg.cc/jjWChHkt/ETNow.png",
-    "ct": "",
+    "ct": "News",
     "lg": "English",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/etnownews/playlist.m3u8",
     "vp": "0"
@@ -237,43 +246,25 @@
     "id": "461158",
     "t": "India TV",
     "im": "https://i.postimg.cc/xC3QGqY9/India-TV.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/indiatvnews/playlist.m3u8",
     "vp": "0"
   },
   {
-    "id": "1f9632",
-    "t": "NDTV Profit",
-    "im": "https://i.postimg.cc/TwFsD65T/NDTV-Profit.png",
-    "ct": "",
-    "lg": "English",
-    "ul": "http://n1.mtfxg.xyz:8081/ind1/ndtvprofitnews/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "481179",
-    "t": "Colors Rishtey",
-    "im": "https://i.postimg.cc/7YgRfjHy/Colors-Rishtey.png",
-    "ct": "",
+    "id": "b3807c",
+    "t": "Zee News",
+    "im": "https://i.postimg.cc/V6Cx4v8J/Zee-News.png",
+    "ct": "News",
     "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/rishteyindia/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "c26ce3",
-    "t": "Rishtey Cineplex",
-    "im": "https://i.postimg.cc/5ttKK0wx/Rishtey-Cineplex.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://k1.mtfxg.xyz:8081/ind1/rishtaycineplex/playlist.m3u8",
+    "ul": "http://n1.mtfxg.xyz:8081/ind1/zeenews/playlist.m3u8",
     "vp": "0"
   },
   {
     "id": "53d670",
     "t": "Good News Today",
     "im": "https://i.postimg.cc/qq216CdG/Good-News-Today.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/teztv/playlist.m3u8",
     "vp": "0"
@@ -282,25 +273,52 @@
     "id": "978ebc",
     "t": "Times Now",
     "im": "https://i.postimg.cc/BQqTBz53/Times-Now.png",
-    "ct": "",
+    "ct": "News",
     "lg": "English",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/timesnowhd/playlist.m3u8",
     "vp": "0"
   },
   {
-    "id": "4b913a",
-    "t": "Travel XP",
-    "im": "https://i.postimg.cc/FsDjWxGL/travel-xp.png",
-    "ct": "",
+    "id": "1f9632",
+    "t": "NDTV Profit",
+    "im": "https://i.postimg.cc/TwFsD65T/NDTV-Profit.png",
+    "ct": "Business",
     "lg": "English",
-    "ul": "http://n1.mtfxg.xyz:8081/ind1/travelxphd/playlist.m3u8",
+    "ul": "http://n1.mtfxg.xyz:8081/ind1/ndtvprofitnews/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "68a027",
+    "t": "Zee Business",
+    "im": "https://i.postimg.cc/bY6J4Fcp/Zee-Business.png",
+    "ct": "Business",
+    "lg": "English",
+    "ul": "http://n1.mtfxg.xyz:8081/ind1/zeebusinessnews/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "481179",
+    "t": "Colors Rishtey",
+    "im": "https://i.postimg.cc/7YgRfjHy/Colors-Rishtey.png",
+    "ct": "Entertainment",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/rishteyindia/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "c26ce3",
+    "t": "Rishtey Cineplex",
+    "im": "https://i.postimg.cc/5ttKK0wx/Rishtey-Cineplex.png",
+    "ct": "Movie",
+    "lg": "Hindi",
+    "ul": "http://k1.mtfxg.xyz:8081/ind1/rishtaycineplex/playlist.m3u8",
     "vp": "0"
   },
   {
     "id": "55b877",
     "t": "Zee Action",
     "im": "https://i.postimg.cc/8zcLqrnn/Zee-Action.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/zeeaction/playlist.m3u8",
     "vp": "0"
@@ -309,25 +327,16 @@
     "id": "2e736d",
     "t": "Zee Anmol",
     "im": "https://i.postimg.cc/26Rvb9jP/Zee-Anmol.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/zeeanmol/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "68a027",
-    "t": "Zee Business",
-    "im": "https://i.postimg.cc/bY6J4Fcp/Zee-Business.png",
-    "ct": "",
-    "lg": "English",
-    "ul": "http://n1.mtfxg.xyz:8081/ind1/zeebusinessnews/playlist.m3u8",
     "vp": "0"
   },
   {
     "id": "6df707",
     "t": "Zee Cinema",
     "im": "https://i.postimg.cc/wMtdC2Lj/Zee-Cinema.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/zeecinema/playlist.m3u8",
     "vp": "0"
@@ -336,7 +345,7 @@
     "id": "a9d9ba",
     "t": "Zee Cinema HD",
     "im": "https://i.postimg.cc/QxT3S6j6/Zee-Cinema-HD.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/zeecinemahd/playlist.m3u8",
     "vp": "0"
@@ -345,25 +354,16 @@
     "id": "ad3081",
     "t": "Zee Classic",
     "im": "https://i.postimg.cc/mgdWgKjg/Zee-Classic.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/zeeclassic/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "b3807c",
-    "t": "Zee News",
-    "im": "https://i.postimg.cc/V6Cx4v8J/Zee-News.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind1/zeenews/playlist.m3u8",
     "vp": "0"
   },
   {
     "id": "535d21",
     "t": "Zee Salaam",
     "im": "https://i.postimg.cc/HssSknhb/Zee-Salaam.png",
-    "ct": "",
+    "ct": "Devotional",
     "lg": "Urdu",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/zeesalaam/playlist.m3u8",
     "vp": "0"
@@ -372,7 +372,7 @@
     "id": "a838bc",
     "t": "Zee TV",
     "im": "https://i.postimg.cc/3JSt4hsV/Zee-TV.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/zeetv/playlist.m3u8",
     "vp": "0"
@@ -381,7 +381,7 @@
     "id": "8bc886",
     "t": "Zee TV HD",
     "im": "https://i.postimg.cc/jjNcF7DY/Zee-TV-HD.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/zeetvhd/playlist.m3u8",
     "vp": "0"
@@ -390,7 +390,7 @@
     "id": "8adf56",
     "t": "Sony Set Max HD",
     "im": "https://i.postimg.cc/Kz2fS8Tk/SONY-MAX-HD.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/sonysetmaxhd/playlist.m3u8",
     "vp": "0"
@@ -399,7 +399,7 @@
     "id": "e30667",
     "t": "Sony Set Max 2",
     "im": "https://i.postimg.cc/vT8vT23G/SONY-MAX-2.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/sonymax2/playlist.m3u8",
     "vp": "1"
@@ -408,7 +408,7 @@
     "id": "0cedf8",
     "t": "Sony Pal",
     "im": "https://i.postimg.cc/K83D1Mr3/SONY-PAL.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/sonypal/playlist.m3u8",
     "vp": "1"
@@ -417,7 +417,7 @@
     "id": "80b323",
     "t": "Sony HD",
     "im": "https://i.postimg.cc/nL8YBh0R/SONY-SET-HD.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/sonytvhd/playlist.m3u8",
     "vp": "1"
@@ -426,7 +426,7 @@
     "id": "71316a",
     "t": "Sony Pix HD",
     "im": "https://i.postimg.cc/W4Mmncy2/SONY-PIX-HD.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/sonypixhd/playlist.m3u8",
     "vp": "1"
@@ -435,7 +435,7 @@
     "id": "ac6460",
     "t": "Sony Sab",
     "im": "https://i.postimg.cc/Gtpkd8m2/SONY-SAB.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/sonysabtv/playlist.m3u8",
     "vp": "1"
@@ -444,7 +444,7 @@
     "id": "7968a9",
     "t": "Sony Sab HD",
     "im": "https://i.postimg.cc/L50jX9JV/SONY-SAB-HD.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/sonysabhd/playlist.m3u8",
     "vp": "1"
@@ -453,7 +453,7 @@
     "id": "58d826",
     "t": "Star Bharat",
     "im": "https://i.postimg.cc/ZKCrQdQs/Star-Bharat-HD.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/starbharat/playlist.m3u8",
     "vp": "1"
@@ -462,7 +462,7 @@
     "id": "26f513",
     "t": "Star Gold",
     "im": "https://i.postimg.cc/zf1K3PG4/Star-Gold.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/indsafe/stargold/playlist.m3u8",
     "vp": "1"
@@ -471,7 +471,7 @@
     "id": "06e1fe",
     "t": "Star Movies",
     "im": "https://i.postimg.cc/JhcJXcy0/Star-Movies.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "English",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/starmovies/playlist.m3u8",
     "vp": "0"
@@ -480,7 +480,7 @@
     "id": "b3f6a2",
     "t": "Star Pravah",
     "im": "https://i.postimg.cc/4yMhGW0L/Star-Pravah-HD.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Marathi",
     "ul": "http://n1.mtfxg.xyz:8081/new/starparvah/playlist.m3u8",
     "vp": "1"
@@ -489,7 +489,7 @@
     "id": "79e613",
     "t": "Star Plus",
     "im": "https://i.postimg.cc/ZKGyDDp0/Star-Plus.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/starplus/playlist.m3u8",
     "vp": "1"
@@ -498,7 +498,7 @@
     "id": "2d7254",
     "t": "Star Utsav",
     "im": "https://i.postimg.cc/Z56ykFxH/Star-Utsav.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/starutsav/playlist.m3u8",
     "vp": "0"
@@ -507,7 +507,7 @@
     "id": "2e7186",
     "t": "Star Utsav Movies",
     "im": "https://i.postimg.cc/k59R76jm/Star-Utsav-Movies.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/starutsavmovies/playlist.m3u8",
     "vp": "0"
@@ -516,25 +516,16 @@
     "id": "06b0c8",
     "t": "Zee Yuva",
     "im": "https://i.postimg.cc/L4qtCPwC/Zee-Yuva.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Marathi",
     "ul": "http://n1.mtfxg.xyz:8081/new/zeeyuva/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "1802bd",
-    "t": "Zing",
-    "im": "https://i.postimg.cc/ZY1r1RhT/Zing.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind1/zingtv/playlist.m3u8",
     "vp": "0"
   },
   {
     "id": "5ba272",
     "t": "Boomerang",
     "im": "https://i.postimg.cc/htnVt5j6/Boomerang.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "English",
     "ul": "http://pk.mtfxg.xyz:8081/us1new/Boomerang/playlist.m3u8",
     "vp": "0"
@@ -543,7 +534,7 @@
     "id": "4ee514",
     "t": "Cartoon Network Arabic",
     "im": "https://i.postimg.cc/K85BkD3z/Cartoon-Network.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Arabic",
     "ul": "http://pk.mtfxg.xyz:8081/arb/cartoonnetworkarabic/playlist.m3u8",
     "vp": "0"
@@ -552,7 +543,7 @@
     "id": "a6fb32",
     "t": "Cartoon Network Hindi",
     "im": "https://i.postimg.cc/K85BkD3z/Cartoon-Network.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Hindi",
     "ul": "http://pk.mtfxg.xyz:8081/ind1/cartoonnetworkhindi/playlist.m3u8",
     "vp": "0"
@@ -561,7 +552,7 @@
     "id": "7237c6",
     "t": "Cartoon Network Telugu",
     "im": "https://i.postimg.cc/K85BkD3z/Cartoon-Network.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Telugu",
     "ul": "http://pk.mtfxg.xyz:8081/ind1/cartoonnetworktg/playlist.m3u8",
     "vp": "0"
@@ -570,7 +561,7 @@
     "id": "d59963",
     "t": "Cartoon Network English",
     "im": "https://i.postimg.cc/K85BkD3z/Cartoon-Network.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "English",
     "ul": "http://pk.mtfxg.xyz:8081/us1new/CN/playlist.m3u8",
     "vp": "0"
@@ -579,7 +570,7 @@
     "id": "8c95e7",
     "t": "Sony Yay",
     "im": "https://i.postimg.cc/G26ywMVM/SONY-YAY.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Hindi",
     "ul": "http://pk.mtfxg.xyz:8081/ind2/sonyyay/playlist.m3u8",
     "vp": "1"
@@ -588,16 +579,25 @@
     "id": "bd095c",
     "t": "Sony Yay Telugu",
     "im": "https://i.postimg.cc/G26ywMVM/SONY-YAY.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Telugu",
     "ul": "http://pk.mtfxg.xyz:8081/ind1/sonyyaytg/playlist.m3u8",
     "vp": "1"
   },
   {
+    "id": "4b913a",
+    "t": "Travel XP",
+    "im": "https://i.postimg.cc/FsDjWxGL/travel-xp.png",
+    "ct": "Lifestyle",
+    "lg": "English",
+    "ul": "http://n1.mtfxg.xyz:8081/ind1/travelxphd/playlist.m3u8",
+    "vp": "0"
+  },
+  {
     "id": "432b1e",
     "t": "Discovery Kids",
     "im": "https://i.postimg.cc/dt2TpjBB/Discovery-Kids.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Hindi",
     "ul": "http://pk.mtfxg.xyz:8081/ind2/discoverykids/playlist.m3u8",
     "vp": "0"
@@ -606,7 +606,7 @@
     "id": "13d5f1",
     "t": "Discovery Kids Tamil",
     "im": "https://i.postimg.cc/dt2TpjBB/Discovery-Kids.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Tamil",
     "ul": "http://pk.mtfxg.xyz:8081/ind1/discoverykidstm/playlist.m3u8",
     "vp": "0"
@@ -615,7 +615,7 @@
     "id": "5a527b",
     "t": "Disney XD",
     "im": "https://i.postimg.cc/Ghdp8wFF/Disney-XD.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "English",
     "ul": "http://pk.mtfxg.xyz:8081/uk2/disneyxdhd/playlist.m3u8",
     "vp": "0"
@@ -624,7 +624,7 @@
     "id": "d0bb79",
     "t": "Disney Channel Hindi",
     "im": "https://i.postimg.cc/qq0p3y3J/Disney.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Hindi",
     "ul": "http://pk.mtfxg.xyz:8081/ind2/disneychannelhindi/playlist.m3u8",
     "vp": "0"
@@ -633,7 +633,7 @@
     "id": "2a389e",
     "t": "Hungama Hindi",
     "im": "https://i.postimg.cc/t47pWXYx/Hungama-Kids.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Hindi",
     "ul": "http://pk.mtfxg.xyz:8081/ind2/hungamahindi/playlist.m3u8",
     "vp": "0"
@@ -642,7 +642,7 @@
     "id": "1972fd",
     "t": "Nick Jr. Hindi",
     "im": "https://i.postimg.cc/XJKb4qDT/Nick-Jr.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Hindi",
     "ul": "http://pk.mtfxg.xyz:8081/ind1/nickjrhindi/playlist.m3u8",
     "vp": "0"
@@ -651,7 +651,7 @@
     "id": "39d140",
     "t": "Nick Tamil",
     "im": "https://i.postimg.cc/bYTh5Gnn/Nick.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Tamil",
     "ul": "http://pk.mtfxg.xyz:8081/ind1/nicktm/playlist.m3u8",
     "vp": "0"
@@ -660,7 +660,7 @@
     "id": "6360a5",
     "t": "Nick Telugu",
     "im": "https://i.postimg.cc/bYTh5Gnn/Nick.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Telugu",
     "ul": "http://pk.mtfxg.xyz:8081/ind1/nicktelugu/playlist.m3u8",
     "vp": "0"
@@ -669,7 +669,7 @@
     "id": "5f1146",
     "t": "Pogo Hindi",
     "im": "https://i.postimg.cc/ncP68qhX/Pogo.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Hindi",
     "ul": "http://pk.mtfxg.xyz:8081/ind1/pogohindi/playlist.m3u8",
     "vp": "0"
@@ -678,7 +678,7 @@
     "id": "9e0ca1",
     "t": "Pogo Tamil",
     "im": "https://i.postimg.cc/ncP68qhX/Pogo.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Tamil",
     "ul": "http://pk.mtfxg.xyz:8081/ind1/pogotm/playlist.m3u8",
     "vp": "0"
@@ -687,7 +687,7 @@
     "id": "b212fe",
     "t": "Sonic Hindi",
     "im": "https://i.postimg.cc/3RYqjBnc/Sonic-Nickelodeon.png",
-    "ct": "",
+    "ct": "Kids",
     "lg": "Hindi",
     "ul": "http://pk.mtfxg.xyz:8081/ind1/sonichindi/playlist.m3u8",
     "vp": "0"
@@ -696,7 +696,7 @@
     "id": "a5be05",
     "t": "Amrita TV",
     "im": "https://i.postimg.cc/0jHHsqxT/Amrita-TV.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/amritatv/playlist.m3u8",
     "vp": "0"
@@ -705,7 +705,7 @@
     "id": "c0506d",
     "t": "Flowers TV",
     "im": "https://i.postimg.cc/Dyy8yTvH/Flowers-TV.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/flowerstv/playlist.m3u8",
     "vp": "0"
@@ -714,7 +714,7 @@
     "id": "7ff179",
     "t": "Gemini Comedy",
     "im": "https://i.postimg.cc/v8KpD7by/Gemini-Comedy.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Telugu",
     "ul": "http://xd.mtfxg.xyz:8081/sind/geminicomedy/playlist.m3u8",
     "vp": "0"
@@ -723,7 +723,7 @@
     "id": "33305a",
     "t": "Gemini Movies",
     "im": "https://i.postimg.cc/bvL5Pk3K/Gemini-Movies.png",
-    "ct": "",
+    "ct": "Movies",
     "lg": "Telugu",
     "ul": "http://xd.mtfxg.xyz:8081/sind/geminimovies/playlist.m3u8",
     "vp": "0"
@@ -732,7 +732,7 @@
     "id": "997328",
     "t": "Gemini Music",
     "im": "https://i.postimg.cc/5NBdGYWM/Gemini-Music.png",
-    "ct": "",
+    "ct": "Music",
     "lg": "Telugu",
     "ul": "http://xd.mtfxg.xyz:8081/sind/geminimusic/playlist.m3u8",
     "vp": "0"
@@ -741,7 +741,7 @@
     "id": "fc7fd3",
     "t": "Gemini",
     "im": "https://i.postimg.cc/Hk3GYqLZ/Gemini-TV.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Telugu",
     "ul": "http://xd.mtfxg.xyz:8081/sind/geminitv/playlist.m3u8",
     "vp": "0"
@@ -750,7 +750,7 @@
     "id": "13453e",
     "t": "Gemini HD",
     "im": "https://i.postimg.cc/x8L7W77P/Gemini-HD.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Telugu",
     "ul": "http://xd.mtfxg.xyz:8081/sind/geminitvhd/playlist.m3u8",
     "vp": "0"
@@ -759,7 +759,7 @@
     "id": "ff11d6",
     "t": "Janam TV",
     "im": "https://i.postimg.cc/43rWsPp2/Janam-TV.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/janamtv/playlist.m3u8",
     "vp": "0"
@@ -768,7 +768,7 @@
     "id": "2edb01",
     "t": "Jeevan TV",
     "im": "https://i.postimg.cc/SRZTFhdC/Jeevan-TV.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/jeevantv/playlist.m3u8",
     "vp": "0"
@@ -777,7 +777,7 @@
     "id": "b49b8e",
     "t": "Kairali TV",
     "im": "https://i.postimg.cc/W3cbgRMG/Kairali-TV.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/kairalitv/playlist.m3u8",
     "vp": "0"
@@ -786,7 +786,7 @@
     "id": "10b90f",
     "t": "Kairali We TV",
     "im": "https://i.postimg.cc/Hnsm9Tjy/Kairali-We-TV.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/kairaliwetv/playlist.m3u8",
     "vp": "0"
@@ -795,7 +795,7 @@
     "id": "ef1809",
     "t": "Manorama News",
     "im": "https://i.postimg.cc/MpGD2Nfm/Manorama-News.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/manoramanews/playlist.m3u8",
     "vp": "0"
@@ -804,7 +804,7 @@
     "id": "f9d6b6",
     "t": "KTV",
     "im": "https://i.postimg.cc/Y9QNzwTM/KTV.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Tamil",
     "ul": "http://xd.mtfxg.xyz:8081/sind/ktv/playlist.m3u8",
     "vp": "0"
@@ -813,7 +813,7 @@
     "id": "1dc07d",
     "t": "KTV HD",
     "im": "https://i.postimg.cc/wj3hbNnW/KTV-HD.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Tamil",
     "ul": "http://xd.mtfxg.xyz:8081/sind/ktvhd/playlist.m3u8",
     "vp": "0"
@@ -822,7 +822,7 @@
     "id": "39a944",
     "t": "Mathrubhumi News",
     "im": "https://i.postimg.cc/Pf9hwnTP/Mathrubhumi-News.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/mathrubhuminews/playlist.m3u8",
     "vp": "0"
@@ -831,7 +831,7 @@
     "id": "a668db",
     "t": "Murasu TV",
     "im": "https://i.postimg.cc/T2z1XDy7/Malai-Murasu.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Tamil",
     "ul": "http://xd.mtfxg.xyz:8081/sind/murasutv/playlist.m3u8",
     "vp": "0"
@@ -840,7 +840,7 @@
     "id": "89b9a4",
     "t": "Jai Hind",
     "im": "https://i.postimg.cc/SszYpFh3/JaiHind.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/jaihind/playlist.m3u8",
     "vp": "0"
@@ -849,7 +849,7 @@
     "id": "eebeac",
     "t": "Media One",
     "im": "https://i.postimg.cc/VNh4R8gV/Media-One.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/mediaone/playlist.m3u8",
     "vp": "0"
@@ -858,7 +858,7 @@
     "id": "90631a",
     "t": "Kairali People",
     "im": "https://i.postimg.cc/jSmJ3SVP/Kairali-People.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/kairalipeople/playlist.m3u8",
     "vp": "0"
@@ -867,7 +867,7 @@
     "id": "cf4c5c",
     "t": "Zee Telugu",
     "im": "https://i.postimg.cc/sXQz63rQ/Zee-Telugu.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Telugu",
     "ul": "http://xd.mtfxg.xyz:8081/sind/zeetelugu/playlist.m3u8",
     "vp": "0"
@@ -876,7 +876,7 @@
     "id": "56f500",
     "t": "Zee Tamil",
     "im": "https://i.postimg.cc/Qd83LQDr/Zee-Tamil.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Tamil",
     "ul": "http://xd.mtfxg.xyz:8081/sind/zeetamil/playlist.m3u8",
     "vp": "0"
@@ -885,7 +885,7 @@
     "id": "022313",
     "t": "Udaya HD",
     "im": "https://i.postimg.cc/K8qCdCQn/Udaya-HD.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Kannada",
     "ul": "http://xd.mtfxg.xyz:8081/sind/udayahd/playlist.m3u8",
     "vp": "0"
@@ -894,7 +894,7 @@
     "id": "9c8294",
     "t": "Vanitha",
     "im": "https://i.postimg.cc/yN2tN9Mx/Vanitha.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Kannada",
     "ul": "http://xd.mtfxg.xyz:8081/sind/vanitha/playlist.m3u8",
     "vp": "0"
@@ -903,7 +903,7 @@
     "id": "397e5f",
     "t": "TV9 Telugu News",
     "im": "https://i.postimg.cc/BnKx0KBM/TV9-Telugu.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Telugu",
     "ul": "http://xd.mtfxg.xyz:8081/sind/tv9news/playlist.m3u8",
     "vp": "0"
@@ -912,7 +912,7 @@
     "id": "1c96fc",
     "t": "ETV HD",
     "im": "https://i.postimg.cc/yxDDyMfv/ETV-HD.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Telugu",
     "ul": "http://xd.mtfxg.xyz:8081/sind/etvtelugu/playlist.m3u8",
     "vp": "0"
@@ -921,7 +921,7 @@
     "id": "06f55b",
     "t": "Surya HD",
     "im": "https://i.postimg.cc/K8DtjyCM/Surya-HD.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/suryahd/playlist.m3u8",
     "vp": "0"
@@ -930,7 +930,7 @@
     "id": "975781",
     "t": "Sun TV HD",
     "im": "https://i.postimg.cc/g2m6fTrk/Sun-TV-HD.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Tamil",
     "ul": "http://xd.mtfxg.xyz:8081/sind/suntvhd/playlist.m3u8",
     "vp": "0"
@@ -939,7 +939,7 @@
     "id": "535b67",
     "t": "Sun Music",
     "im": "https://i.postimg.cc/650QG55t/Sun-Music.png",
-    "ct": "",
+    "ct": "Music",
     "lg": "Tamil",
     "ul": "http://xd.mtfxg.xyz:8081/sind/sunmusic/playlist.m3u8",
     "vp": "0"
@@ -948,7 +948,7 @@
     "id": "5a671a",
     "t": "Sirippoli TV",
     "im": "https://i.postimg.cc/tCmLcLBF/Sirippoli-Tv.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Tamil",
     "ul": "http://xd.mtfxg.xyz:8081/sind/sirippoli/playlist.m3u8",
     "vp": "0"
@@ -957,7 +957,7 @@
     "id": "ef5a5b",
     "t": "Star Maa",
     "im": "https://i.postimg.cc/YS4g3mh1/Star-Maa.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Telugu",
     "ul": "http://xd.mtfxg.xyz:8081/sind/maatv/playlist.m3u8",
     "vp": "1"
@@ -966,7 +966,7 @@
     "id": "ce39c1",
     "t": "Star Maa Movies",
     "im": "https://i.postimg.cc/hvndcyMr/Star-Maa-Movies.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Telugu",
     "ul": "http://xd.mtfxg.xyz:8081/sind/maamovies/playlist.m3u8",
     "vp": "1"
@@ -975,7 +975,7 @@
     "id": "74c5ee",
     "t": "Asianet",
     "im": "https://i.postimg.cc/C1GRPCYf/Asianet.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/asianettv/playlist.m3u8",
     "vp": "1"
@@ -984,7 +984,7 @@
     "id": "8625e7",
     "t": "Asianet Plus",
     "im": "https://i.postimg.cc/zvDGx909/Asianet-Plus.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/asianetplus/playlist.m3u8",
     "vp": "1"
@@ -993,7 +993,7 @@
     "id": "bcfbfd",
     "t": "Asianet Movies",
     "im": "https://i.postimg.cc/tTpqgKQY/Asianet-Movies.png",
-    "ct": "",
+    "ct": "Movie",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/asianetmovies/playlist.m3u8",
     "vp": "1"
@@ -1002,7 +1002,7 @@
     "id": "1f827b",
     "t": "Raj Musix Telugu",
     "im": "https://i.postimg.cc/gknYry5q/Raj-Musix-Telugu.png",
-    "ct": "",
+    "ct": "Music",
     "lg": "Telugu",
     "ul": "http://xd.mtfxg.xyz:8081/sind/rajmusix/playlist.m3u8",
     "vp": "0"
@@ -1011,7 +1011,7 @@
     "id": "98d59c",
     "t": "Reporter TV",
     "im": "https://i.postimg.cc/JhWxGqTs/Reporter-TV.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Malayalam",
     "ul": "http://xd.mtfxg.xyz:8081/sind/reportertv/playlist.m3u8",
     "vp": "0"
@@ -1020,7 +1020,7 @@
     "id": "e07992",
     "t": "Polimer TV",
     "im": "https://i.postimg.cc/rpShJbdG/Polimer-TV.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Tamil",
     "ul": "http://xd.mtfxg.xyz:8081/sind/polimertv/playlist.m3u8",
     "vp": "0"
@@ -1029,7 +1029,7 @@
     "id": "782b69",
     "t": "Polimer News",
     "im": "https://i.postimg.cc/HnP3n1Km/Polimer-News.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Tamil",
     "ul": "http://xd.mtfxg.xyz:8081/sind/polimernews/playlist.m3u8",
     "vp": "0"
@@ -1038,7 +1038,7 @@
     "id": "18110e",
     "t": "9X Tashan",
     "im": "https://i.postimg.cc/gjrqfB0T/9-X-Tashan.png",
-    "ct": "",
+    "ct": "Music",
     "lg": "Punjabi",
     "ul": "http://n1.mtfxg.xyz:8081/new/9xtashan/playlist.m3u8",
     "vp": "0"
@@ -1047,25 +1047,16 @@
     "id": "a0871a",
     "t": "Boogle Bollywood",
     "im": "https://i.postimg.cc/QMGDC2Gc/Boogle-Bollywood.png",
-    "ct": "",
+    "ct": "Music",
     "lg": "Punjabi",
     "ul": "http://n1.mtfxg.xyz:8081/new/booglybolly/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "edfce8",
-    "t": "Brit Asia",
-    "im": "https://i.postimg.cc/D0ZkRFL3/Brit-Asia-TV.png",
-    "ct": "",
-    "lg": "Punjabi",
-    "ul": "http://n1.mtfxg.xyz:8081/new/britasia/playlist.m3u8",
     "vp": "0"
   },
   {
     "id": "939e38",
     "t": "DD Punjabi",
     "im": "https://i.postimg.cc/P5ZGgSpJ/DD-Punjabi.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Punjabi",
     "ul": "http://n1.mtfxg.xyz:8081/new/ddpunjabi/playlist.m3u8",
     "vp": "0"
@@ -1074,7 +1065,7 @@
     "id": "7fd741",
     "t": "PTC Chakde",
     "im": "https://i.postimg.cc/KY2XxtBN/PTC-Chak-De.png",
-    "ct": "",
+    "ct": "Music",
     "lg": "Punjabi",
     "ul": "http://n1.mtfxg.xyz:8081/new/ptcchakde/playlist.m3u8",
     "vp": "0"
@@ -1083,7 +1074,7 @@
     "id": "e825d2",
     "t": "PTC News",
     "im": "https://i.postimg.cc/nVw6MyqM/PTC-News.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Punjabi",
     "ul": "http://n1.mtfxg.xyz:8081/new/ptcnews/playlist.m3u8",
     "vp": "0"
@@ -1092,7 +1083,7 @@
     "id": "7ff22b",
     "t": "PTC Punjabi",
     "im": "https://i.postimg.cc/28sM7ncD/PTC-Punjabi.png",
-    "ct": "",
+    "ct": "Devotional",
     "lg": "Punjabi",
     "ul": "http://n1.mtfxg.xyz:8081/new/ptcpunjabi/playlist.m3u8",
     "vp": "0"
@@ -1101,7 +1092,7 @@
     "id": "f000f3",
     "t": "Sabrang TV",
     "im": "https://i.postimg.cc/ydJrRPqc/Sabrang-TV.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Punjabi",
     "ul": "http://n1.mtfxg.xyz:8081/new/sabrangtv/playlist.m3u8",
     "vp": "0"
@@ -1110,7 +1101,7 @@
     "id": "963a00",
     "t": "Sardari TV",
     "im": "https://i.postimg.cc/c4G5KwFt/Sardari-TV.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Punjabi",
     "ul": "http://n1.mtfxg.xyz:8081/new/sardaritv/playlist.m3u8",
     "vp": "0"
@@ -1119,7 +1110,7 @@
     "id": "bc065d",
     "t": "Zee Punjabi",
     "im": "https://i.postimg.cc/Qd4bqTJb/Zee-Punjabi.png",
-    "ct": "",
+    "ct": "Entertainment",
     "lg": "Punjabi",
     "ul": "http://n1.mtfxg.xyz:8081/new/zeepunjabi/playlist.m3u8",
     "vp": "0"
@@ -1128,7 +1119,7 @@
     "id": "780b76",
     "t": "Animal Planet World HD English",
     "im": "https://i.postimg.cc/W4xwBcKq/Animal-Planet-HD.png",
-    "ct": "",
+    "ct": "Infotainment",
     "lg": "English",
     "ul": "http://pk.mtfxg.xyz:8081/ind2/animalplanetworldhdeng/playlist.m3u8",
     "vp": "0"
@@ -1137,7 +1128,7 @@
     "id": "7943d8",
     "t": "Animal Planet Hindi",
     "im": "https://i.postimg.cc/W4xwBcKq/Animal-Planet-HD.png",
-    "ct": "",
+    "ct": "Infotainment",
     "lg": "Hindi",
     "ul": "http://pk.mtfxg.xyz:8081/ind2/animalplanethindi/playlist.m3u8",
     "vp": "0"
@@ -1146,7 +1137,7 @@
     "id": "5ff3d7",
     "t": "Discovery HD",
     "im": "https://i.postimg.cc/prRzvWBr/Discovery-HD.png",
-    "ct": "",
+    "ct": "Infotainment",
     "lg": "English",
     "ul": "http://pk.mtfxg.xyz:8081/uk2/discoveryhd/playlist.m3u8",
     "vp": "0"
@@ -1155,7 +1146,7 @@
     "id": "ac66af",
     "t": "Sony Sports Ten 2 HD",
     "im": "https://i.postimg.cc/63L4MsNX/SONY-SPORTS-TEN-2-HD.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/ind2/sonyten2hd/playlist.m3u8",
     "vp": "1"
@@ -1164,7 +1155,7 @@
     "id": "68eea9",
     "t": "Sony Sports Ten 3 HD",
     "im": "https://i.postimg.cc/J7pG05rP/SONY-SPORTS-TEN-3-HD.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "Hindi",
     "ul": "http://xx.mtfxg.xyz:8081/ind1/ten3hd/playlist.m3u8",
     "vp": "1"
@@ -1173,7 +1164,7 @@
     "id": "7e2aee",
     "t": "Sony Sports Ten 5 HD",
     "im": "https://i.postimg.cc/25WZBbc3/SONY-SPORTS-TEN-5-HD.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/ind2/sonysixhd/playlist.m3u8",
     "vp": "1"
@@ -1182,7 +1173,7 @@
     "id": "d274c2",
     "t": "Star Sports 1",
     "im": "https://i.postimg.cc/W1k39RMH/Star-Sports-1.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/indsafe/starsports1/playlist.m3u8",
     "vp": "1"
@@ -1191,7 +1182,7 @@
     "id": "092037",
     "t": "Star Sports 2",
     "im": "https://i.postimg.cc/cJ7JSQk7/Star-Sports-2.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/indsafe/starsports2/playlist.m3u8",
     "vp": "1"
@@ -1200,7 +1191,7 @@
     "id": "8994c8",
     "t": "Star Sports 3",
     "im": "https://i.postimg.cc/851zPjx2/Star-Sports-3.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/star3hd/playlist.m3u8",
     "vp": "1"
@@ -1209,7 +1200,7 @@
     "id": "7e665c",
     "t": "Star Sports 1 Hindi",
     "im": "https://i.postimg.cc/90kmp1z2/Star-Sports-1-Hindi.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "Hindi",
     "ul": "http://ads.mtfxg.xyz:8081/indsafe/starsports1hindi/playlist.m3u8",
     "vp": "1"
@@ -1218,7 +1209,7 @@
     "id": "2a3b87",
     "t": "Star Sports Select 1",
     "im": "https://i.postimg.cc/L6q6Xd08/Star-Sports-Select-1.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/indsafe/starsportsselect1/playlist.m3u8",
     "vp": "1"
@@ -1227,7 +1218,7 @@
     "id": "662b24",
     "t": "Star Sports Select 2",
     "im": "https://i.postimg.cc/mr4b8PZP/Star-Sports-Select-2.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/indsafe/starsportsselect2/playlist.m3u8",
     "vp": "1"
@@ -1236,7 +1227,7 @@
     "id": "4eedcc",
     "t": "Willow HD",
     "im": "https://i.postimg.cc/FKGQpGn6/Willow.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://mx.mtfxg.xyz:8081/us1new/willowUsa/playlist.m3u8",
     "vp": "0"
@@ -1245,7 +1236,7 @@
     "id": "52ff67",
     "t": "PTV Sports",
     "im": "https://i.postimg.cc/P5dQm4G9/PTV-Sports.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/123!@paki/ptvsports/playlist.m3u8",
     "vp": "0"
@@ -1254,7 +1245,7 @@
     "id": "82a005",
     "t": "Sky Sports Cricket HD",
     "im": "https://i.postimg.cc/R0k3TS6h/Sky-Sports-Cricket.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://ads.mtfxg.xyz:8081/uk2/skysportscrickethd/playlist.m3u8",
     "vp": "0"
@@ -1263,7 +1254,7 @@
     "id": "13dda5",
     "t": "Fox 501",
     "im": "https://i.postimg.cc/Y0pCXhpr/Fox-Cricket.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/fox501/playlist.m3u8",
     "vp": "0"
@@ -1272,7 +1263,7 @@
     "id": "24aee5",
     "t": "Flow Sports",
     "im": "https://i.postimg.cc/GmZ3WMcS/Flow-Sports.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/flowsports/playlist.m3u8",
     "vp": "0"
@@ -1281,7 +1272,7 @@
     "id": "6ff2eb",
     "t": "Sky Sports Football",
     "im": "https://i.postimg.cc/Y0nMbRnR/Sky-Sports-Football.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/us1new/skysfott/playlist.m3u8",
     "vp": "0"
@@ -1290,7 +1281,7 @@
     "id": "dbf475",
     "t": "Sky Sports Football HD",
     "im": "https://i.postimg.cc/Y0nMbRnR/Sky-Sports-Football.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/uk/skysportsfootballhd/playlist.m3u8",
     "vp": "0"
@@ -1299,7 +1290,7 @@
     "id": "a0c6ba",
     "t": "Sky Sports Premiere League",
     "im": "https://i.postimg.cc/nLJbKNVZ/Sky-Sports-League.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/us1new/skysprem/playlist.m3u8",
     "vp": "0"
@@ -1308,7 +1299,7 @@
     "id": "80838a",
     "t": "Sky Sports Premiere League HD",
     "im": "https://i.postimg.cc/nLJbKNVZ/Sky-Sports-League.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/skyspremhd/playlist.m3u8",
     "vp": "0"
@@ -1317,7 +1308,7 @@
     "id": "358c80",
     "t": "Sky Sports Action",
     "im": "https://i.postimg.cc/pdx458kL/Sky-Sports-Action.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/us1new/skysact/playlist.m3u8",
     "vp": "0"
@@ -1326,7 +1317,7 @@
     "id": "ac34c0",
     "t": "Sky Sports Action HD",
     "im": "https://i.postimg.cc/pdx458kL/Sky-Sports-Action.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/uk2/skysportsactionhd/playlist.m3u8",
     "vp": "0"
@@ -1335,7 +1326,7 @@
     "id": "3ce25b",
     "t": "Sky Sports Main Event",
     "im": "https://i.postimg.cc/KjKHh5cJ/Sky-Sports-Main-Event.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/skysme/playlist.m3u8",
     "vp": "0"
@@ -1344,7 +1335,7 @@
     "id": "kb9u3f",
     "t": "Sky Sports New Zealand 1",
     "im": "https://i.postimg.cc/7LkhCBpJ/Sky-Sports-New-Zealand.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/skyspnz1/playlist.m3u8",
     "vp": "0"
@@ -1353,7 +1344,7 @@
     "id": "vb973h",
     "t": "Sky Sports New Zealand 2",
     "im": "https://i.postimg.cc/7LkhCBpJ/Sky-Sports-New-Zealand.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/skyspnz2/playlist.m3u8",
     "vp": "0"
@@ -1362,7 +1353,7 @@
     "id": "Nbx43w",
     "t": "Sky Sports New Zealand 3",
     "im": "https://i.postimg.cc/7LkhCBpJ/Sky-Sports-New-Zealand.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/skyspnz3/playlist.m3u8",
     "vp": "0"
@@ -1371,7 +1362,7 @@
     "id": "40b665",
     "t": "BT Sports 1",
     "im": "https://i.postimg.cc/fy0BrT5P/BT-Sports-1-HD.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/uk/btsports1/playlist.m3u8",
     "vp": "0"
@@ -1380,7 +1371,7 @@
     "id": "9aaaa4",
     "t": "BT Sports 2",
     "im": "https://i.postimg.cc/dQkFY2xb/BT-Sports-2-HD.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/uk2/btsports2/playlist.m3u8",
     "vp": "0"
@@ -1389,7 +1380,7 @@
     "id": "bd065b",
     "t": "BT Sports 3",
     "im": "https://i.postimg.cc/K8mCRB0v/BT-Sports-3-HD.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/uk/btsports3/playlist.m3u8",
     "vp": "0"
@@ -1398,7 +1389,7 @@
     "id": "0d5197",
     "t": "BT Sports 4",
     "im": "https://i.postimg.cc/MH8dgJ4K/BT-Sport-4.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://xx.mtfxg.xyz:8081/uk/btsportsespnhd/playlist.m3u8",
     "vp": "0"
@@ -1407,9 +1398,18 @@
     "id": "eb8c96",
     "t": "Bein Sports USA HD",
     "im": "https://i.postimg.cc/Qxhfbs1f/Bein-Sports.png",
-    "ct": "",
+    "ct": "Sports",
     "lg": "English",
     "ul": "http://j1.mtfxg.xyz:8081/usa/beinsportshd/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "edfce8",
+    "t": "Brit Asia",
+    "im": "https://i.postimg.cc/D0ZkRFL3/Brit-Asia-TV.png",
+    "ct": "Music",
+    "lg": "English",
+    "ul": "http://n1.mtfxg.xyz:8081/new/britasia/playlist.m3u8",
     "vp": "0"
   }
 ]
