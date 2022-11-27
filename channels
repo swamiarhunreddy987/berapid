@@ -3,27 +3,9 @@
     "id": "5b7b03",
     "t": "9XM",
     "im": "https://i.postimg.cc/bJb8ZsDy/9XM.png",
-    "ct": "",
+    "ct": "Music",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind2/9xm/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "263ccc",
-    "t": "Aaj Tak",
-    "im": "https://i.postimg.cc/XYJbw2GD/Aaj-Tak.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/aajtaknews/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "2063a9",
-    "t": "ABP News",
-    "im": "https://i.postimg.cc/LXzKHwwh/ABP-News.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind1/abpnews/playlist.m3u8",
     "vp": "0"
   },
   {
@@ -117,15 +99,6 @@
     "vp": "0"
   },
   {
-    "id": "92b278",
-    "t": "DD News",
-    "im": "https://i.postimg.cc/25HNcMMZ/DD-News.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/ddnews/playlist.m3u8",
-    "vp": "0"
-  },
-  {
     "id": "66657f",
     "t": "Dhamaal TV",
     "im": "https://i.postimg.cc/zG8mJq1h/Dhamaal-TV.png",
@@ -150,24 +123,6 @@
     "ct": "",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/enter10/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "5d854d",
-    "t": "ETNow (ET Now)",
-    "im": "https://i.postimg.cc/jjWChHkt/ETNow.png",
-    "ct": "",
-    "lg": "English",
-    "ul": "http://n1.mtfxg.xyz:8081/ind1/etnownews/playlist.m3u8",
-    "vp": "0"
-  },
-  {
-    "id": "461158",
-    "t": "India TV",
-    "im": "https://i.postimg.cc/xC3QGqY9/India-TV.png",
-    "ct": "",
-    "lg": "Hindi",
-    "ul": "http://n1.mtfxg.xyz:8081/ind2/indiatvnews/playlist.m3u8",
     "vp": "0"
   },
   {
@@ -225,10 +180,37 @@
     "vp": "0"
   },
   {
+    "id": "92b278",
+    "t": "DD News",
+    "im": "https://i.postimg.cc/25HNcMMZ/DD-News.png",
+    "ct": "News",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/ddnews/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "263ccc",
+    "t": "Aaj Tak",
+    "im": "https://i.postimg.cc/XYJbw2GD/Aaj-Tak.png",
+    "ct": "News",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/aajtaknews/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "2063a9",
+    "t": "ABP News",
+    "im": "https://i.postimg.cc/LXzKHwwh/ABP-News.png",
+    "ct": "News",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind1/abpnews/playlist.m3u8",
+    "vp": "0"
+  },
+  {
     "id": "38acd2",
     "t": "NDTV India",
     "im": "https://i.postimg.cc/mk1wf1Ds/NDTV-India.png",
-    "ct": "",
+    "ct": "News",
     "lg": "Hindi",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/ndtvindianews/playlist.m3u8",
     "vp": "0"
@@ -237,9 +219,27 @@
     "id": "6ddc07",
     "t": "NDTV 24x7",
     "im": "https://i.postimg.cc/2SDPGrc6/NDTV-24x7.png",
-    "ct": "",
+    "ct": "News",
     "lg": "English",
     "ul": "http://n1.mtfxg.xyz:8081/ind1/ndtv24x7news/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "5d854d",
+    "t": "ETNow (ET Now)",
+    "im": "https://i.postimg.cc/jjWChHkt/ETNow.png",
+    "ct": "",
+    "lg": "English",
+    "ul": "http://n1.mtfxg.xyz:8081/ind1/etnownews/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "461158",
+    "t": "India TV",
+    "im": "https://i.postimg.cc/xC3QGqY9/India-TV.png",
+    "ct": "",
+    "lg": "Hindi",
+    "ul": "http://n1.mtfxg.xyz:8081/ind2/indiatvnews/playlist.m3u8",
     "vp": "0"
   },
   {
