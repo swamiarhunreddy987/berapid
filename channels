@@ -1262,7 +1262,7 @@
   {
     "id": "13dda5",
     "t": "Fox 501",
-    "im": "",
+    "im": "https://i.postimg.cc/Y0pCXhpr/Fox-Cricket.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/fox501/playlist.m3u8",
@@ -1271,7 +1271,7 @@
   {
     "id": "24aee5",
     "t": "Flow Sports",
-    "im": "",
+    "im": "https://i.postimg.cc/GmZ3WMcS/Flow-Sports.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/flowsports/playlist.m3u8",
@@ -1280,7 +1280,7 @@
   {
     "id": "6ff2eb",
     "t": "Sky Sports Football",
-    "im": "",
+    "im": "https://i.postimg.cc/Y0nMbRnR/Sky-Sports-Football.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/us1new/skysfott/playlist.m3u8",
@@ -1289,7 +1289,7 @@
   {
     "id": "dbf475",
     "t": "Sky Sports Football HD",
-    "im": "",
+    "im": "https://i.postimg.cc/Y0nMbRnR/Sky-Sports-Football.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/uk/skysportsfootballhd/playlist.m3u8",
@@ -1298,7 +1298,7 @@
   {
     "id": "a0c6ba",
     "t": "Sky Sports Premiere League",
-    "im": "",
+    "im": "https://i.postimg.cc/nLJbKNVZ/Sky-Sports-League.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/us1new/skysprem/playlist.m3u8",
@@ -1307,7 +1307,7 @@
   {
     "id": "80838a",
     "t": "Sky Sports Premiere League HD",
-    "im": "",
+    "im": "https://i.postimg.cc/nLJbKNVZ/Sky-Sports-League.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/skyspremhd/playlist.m3u8",
@@ -1316,7 +1316,7 @@
   {
     "id": "358c80",
     "t": "Sky Sports Action",
-    "im": "",
+    "im": "https://i.postimg.cc/pdx458kL/Sky-Sports-Action.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/us1new/skysact/playlist.m3u8",
@@ -1325,7 +1325,7 @@
   {
     "id": "ac34c0",
     "t": "Sky Sports Action HD",
-    "im": "",
+    "im": "https://i.postimg.cc/pdx458kL/Sky-Sports-Action.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/uk2/skysportsactionhd/playlist.m3u8",
@@ -1334,25 +1334,43 @@
   {
     "id": "3ce25b",
     "t": "Sky Sports Main Event",
-    "im": "",
+    "im": "https://i.postimg.cc/KjKHh5cJ/Sky-Sports-Main-Event.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/skysme/playlist.m3u8",
     "vp": "0"
   },
   {
-    "id": "4b943f",
+    "id": "kb9u3f",
     "t": "Sky Sports New Zealand 1",
-    "im": "",
+    "im": "https://i.postimg.cc/7LkhCBpJ/Sky-Sports-New-Zealand.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/sportshdd/skyspnz1/playlist.m3u8",
     "vp": "0"
   },
   {
+    "id": "vb973h",
+    "t": "Sky Sports New Zealand 2",
+    "im": "https://i.postimg.cc/7LkhCBpJ/Sky-Sports-New-Zealand.png",
+    "ct": "",
+    "lg": "",
+    "ul": "http://xx.mtfxg.xyz:8081/sportshdd/skyspnz2/playlist.m3u8",
+    "vp": "0"
+  },
+  {
+    "id": "Nbx43w",
+    "t": "Sky Sports New Zealand 3",
+    "im": "https://i.postimg.cc/7LkhCBpJ/Sky-Sports-New-Zealand.png",
+    "ct": "",
+    "lg": "",
+    "ul": "http://xx.mtfxg.xyz:8081/sportshdd/skyspnz3/playlist.m3u8",
+    "vp": "0"
+  },
+  {
     "id": "40b665",
     "t": "BT Sports 1",
-    "im": "",
+    "im": "https://i.postimg.cc/fy0BrT5P/BT-Sports-1-HD.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/uk/btsports1/playlist.m3u8",
@@ -1361,7 +1379,7 @@
   {
     "id": "9aaaa4",
     "t": "BT Sports 2",
-    "im": "",
+    "im": "https://i.postimg.cc/dQkFY2xb/BT-Sports-2-HD.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/uk2/btsports2/playlist.m3u8",
@@ -1370,7 +1388,7 @@
   {
     "id": "bd065b",
     "t": "BT Sports 3",
-    "im": "",
+    "im": "https://i.postimg.cc/K8mCRB0v/BT-Sports-3-HD.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/uk/btsports3/playlist.m3u8",
@@ -1379,7 +1397,7 @@
   {
     "id": "0d5197",
     "t": "BT Sports 4",
-    "im": "",
+    "im": "https://i.postimg.cc/MH8dgJ4K/BT-Sport-4.png",
     "ct": "",
     "lg": "",
     "ul": "http://xx.mtfxg.xyz:8081/uk/btsportsespnhd/playlist.m3u8",
@@ -1388,7 +1406,7 @@
   {
     "id": "eb8c96",
     "t": "Bein Sports USA HD",
-    "im": "",
+    "im": "https://i.postimg.cc/Qxhfbs1f/Bein-Sports.png",
     "ct": "",
     "lg": "",
     "ul": "http://j1.mtfxg.xyz:8081/usa/beinsportshd/playlist.m3u8",
